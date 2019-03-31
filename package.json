@@ -1,0 +1,31 @@
+{
+  "name": "ads101x-q1",
+  "version": "1.0.0",
+  "description": "Library for TI ADS101x-Q1 analog to digital converter.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnielsen1965/node-ads101x-q1.git"
+  },
+  "keywords": [
+    "ads101x-q1",
+    "ads1013-q1",
+    "ads1014-q1",
+    "ads1015-q1",
+    "adc",
+    "analog",
+    "digital",
+    "converter",
+    "raspberry",
+    "pi",
+    "node"
+  ],
+  "author": "Bryan Nielsen <bnielsen1965@gmail.com> (https://github.com/bnielsen1965)",
+  "license": "MIT",
+  "dependencies": {
+    "i2c-bus": "^4.0.9"
+  }
+}
